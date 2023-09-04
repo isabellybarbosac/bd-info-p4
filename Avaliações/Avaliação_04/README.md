@@ -1,2 +1,2 @@
-# bd-info-p4
-Repositório destinado a disciplina de Banco de Dados da turma 2023.2 do curso Técnico Integrado em Informática, ministrada pelo professor Ricardo Duarte Taveira.
+# Avaliação_04-BD
+Essa avaliação é uma prática ultilizando SQLite no BDbrowser. Foi criado um Banco de Dados com as seguintes tabelas: TB_Aluno; TB_Professor; TB_Curso, TB_Disciplina. Nessas tabelas foram exemplificados os comandos SQL que executam a operação CRUD(Insert, Select, Update e Delete).
