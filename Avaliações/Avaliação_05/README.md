@@ -1,2 +1,2 @@
-# bd-info-p4
-Repositório destinado a disciplina de Banco de Dados da turma 2023.2 do curso Técnico Integrado em Informática, ministrada pelo professor Ricardo Duarte Taveira.
+# Avaliação_05
+A avaliação 05 consiste em criar tabelas com relacionamentos 1:1 ; 1:N e N:N utilizando Sqlite3 no Prompt de Comando.
